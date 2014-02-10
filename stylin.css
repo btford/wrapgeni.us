@@ -8,6 +8,7 @@ body {
   max-width: 780px;
   min-width: 300px;
   padding: 10px;
+  position: relative;
   text-align: center;
 }
 
@@ -36,6 +37,7 @@ li a {
 }
 
 img {
+  display: inline-block;
   max-width: 600px;
   width: 100%;
 }
