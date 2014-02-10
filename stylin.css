@@ -23,6 +23,11 @@ h1, p, li, a {
   font-weight: 100;
 }
 
+.slogan {
+  color: #ff17aa;
+  font-size: 1.7rem;
+}
+
 h1 {
   font-size: 3.5rem;
 }
