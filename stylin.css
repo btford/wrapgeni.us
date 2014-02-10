@@ -57,17 +57,16 @@ img {
   max-width: 600px;
   position: relative;
 }
-.art > img {
-  max-width: 600px;
-}
+
 .art > aside {
   display: none;
-  position: absolute;
 }
+
 .art:hover > aside {
   background-color: rgba(255, 255, 255, 0.7);
   bottom: 0;
   display: block;
+  font-size: 1.8rem;
   overflow: hidden;
   color: rgba(0,0,0,0.0);
   left: 0;
@@ -80,7 +79,7 @@ img {
 }
 
 @media only screen and (max-width: 460px) {
-  aside {
+  .art:hover > aside {
     font-size: 1.2rem;
   }
 }
