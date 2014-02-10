@@ -23,6 +23,10 @@ h1, h2, p, li, a {
   font-weight: 100;
 }
 
+.credits {
+  margin-top: 20px;
+}
+
 .slogan {
   color: #ff17aa;
   font-size: 1.7rem;
