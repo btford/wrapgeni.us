@@ -30,11 +30,12 @@ h1, p, li, a {
 
 h1 {
   font-size: 3.5rem;
+  line-height: 0.9rem;
 }
 
 ul {
   list-style-type: none;
-  padding: 0;
+  padding: 20px 0 0;
 }
 
 li a {
