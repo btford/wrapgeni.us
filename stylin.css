@@ -26,6 +26,7 @@ h1, p, li, a {
 .slogan {
   color: #ff17aa;
   font-size: 1.7rem;
+  line-height: 1rem;
 }
 
 h1 {
